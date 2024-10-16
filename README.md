@@ -11,7 +11,7 @@ Bu araç, Wi-Fi ağlarındaki WPS PIN'lerini kırmak için kullanılır. **Reave
 ### Kurulum
 
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone [https://github.com/ardanujen/wifi.git]
+cd wifi
 python3 wps_bruteforce_tool.py
 # wifi
